@@ -1,12 +1,12 @@
 import scala.xml.Node
 
-def svg(width: Int, height: Int, n:Node) = {
+def svg(width: Int, height: Int, n:Node*) = {
   <svg xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg"  version="1.1" width={""+width} height={""+height} >
    {n}
   </svg>
 }
 
-def group(n:Node) = {
+def group(n:Node*) = {
   <g id="layer1">{n}</g>
 }
 
