@@ -1,6 +1,6 @@
 ### Inter-wow
 
-* Works great for interviewing (esp. entry-level) programmers, visualizers, graphic designers, ...
+* Works great for screening or interviewing (esp. entry-level) programmers, visualizers, graphic designers, ...
 * Can be also used as a teaching aid.
 
 ### How it works
