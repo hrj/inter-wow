@@ -1,6 +1,6 @@
 ### Inter-wow
 
-* Works great for interviewing (esp. entry-level) programmers, visualizers, graphic designers, ... and more?
+* Works great for interviewing (esp. entry-level) programmers, visualizers, graphic designers, ...
 * Can be also used as a teaching aid.
 
 ### How it works
@@ -11,7 +11,7 @@ scratch.
 
 ### Quick and simple example
 
-Imagine that some code to paint a square is given. It's output is:
+Imagine that some code to paint a square is given. Its output is:
 
 ![Square](https://hrj.github.io/static/inter-wow/square.svg)
 
