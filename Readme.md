@@ -46,6 +46,8 @@ This repository contains code and build files in many languages. Currently suppo
 Javascript. PRs for other languages are welcome.
 
 We use SVGs for output, because SVGs
+* are just text files; they don't require many dependencies to generate and view
+* are declarative (vis-a-vis a rendering API)
 * are human readable
 * can be rendered in any modern browser
 * can be inspected and edited in browsers' dev tools
