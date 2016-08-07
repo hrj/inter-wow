@@ -49,5 +49,6 @@ We use SVGs for output, because SVGs
 
 #### License & Copyright
 Copyright 2016 @hrj
+
 License: [MIT](https://opensource.org/licenses/MIT).
 
