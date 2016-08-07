@@ -33,11 +33,12 @@ The popular puzzle in visual format:
 ![Spiral Buildup 4](https://hrj.github.io/static/inter-wow/spiral4.svg)
 
 ### Recursion
-Such missions are best accompained with the rules for recursion:
 
 ![Recursion 1](https://hrj.github.io/static/inter-wow/recurse1.svg)
 ![Recursion 2](https://hrj.github.io/static/inter-wow/recurse2.svg)
 ![Recursion 3](https://hrj.github.io/static/inter-wow/recurse3.svg)
+
+(Such missions are best accompained with the rules for recursion)
 
 
 ### About this repository
