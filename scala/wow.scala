@@ -17,7 +17,7 @@ def rect() = {
 println("""<?xml version='1.0' encoding='UTF-8' standalone='no'?>""")
 
 println(
-  svg(600, 600,
+  svg(120, 120,
     group(
       rect()
     )

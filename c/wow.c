@@ -25,7 +25,7 @@ void svgEnd() {
 }
 
 int main(void) {
-  svgStart(600, 600);
+  svgStart(120, 120);
   groupStart("layer1");
   rect();
   groupEnd();
