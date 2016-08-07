@@ -23,6 +23,7 @@ In this example you might need to parameterize the given code and correctly use 
 
 ### Fizz Buzz
 The popular puzzle in visual format:
+
 ![Fizz Buzz](https://hrj.github.io/static/inter-wow/fizzBuzz.svg)
 
 ### Spiral buildup
